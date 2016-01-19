@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '160446869:AAEjLfB1MsaFNR1JpvqvdTOpRMBnl2obwT0',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -11,7 +11,7 @@ return {
 	lang = 'en',
 	antisquig = false,
 	cli_port = 4567,
-	admin = 00000000,
+	admin = 78260209,
 	admin_name = 'John Smith',
 	log_chat = nil,
 	about_text = [[
