@@ -16,7 +16,7 @@ local action = function(msg)
 	elseif msg.text:match('^/') then
 		return true
 	-- Uncomment the following line for Al Gore-like reply chatter.
-	elseif msg.reply_to_message and msg.reply_to_message.from.id == bot.id then
+	elseif msg.replytomessage and msg.replytomessage.from.id == bot.id then
 	elseif msg.from.id == msg.chat.id then
 	else
 		return true
