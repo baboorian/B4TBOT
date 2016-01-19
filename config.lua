@@ -59,9 +59,9 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['78260209'] = 'You'
 		},
-		admin_group = -00000000,
+		admin_group = -78260209,
 		realm_name = 'My Realm'
 	},
 	plugins = {
