@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '160446869:AAEjLfB1MsaFNR1JpvqvdTOpRMBnl2obwT0',
+	bot_api_key = '160446869:AAFnAxtXnvklfRy7I_-8V4AY4Sq6NdTOIHw',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
