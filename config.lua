@@ -101,5 +101,5 @@ Send /help to get started.
 		-- Put new plugins above this line.
 		'help.lua',
 		'greetings.lua'
-	}       'Chatter.lua',
+	}       'Chatter.lua'
 }
