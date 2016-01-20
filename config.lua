@@ -95,11 +95,13 @@ Send /help to get started.
 		'bandersnatch.lua',
 		'currency.lua',
 		'cats.lua',
+		'chatter.lua',
 		'hearthstone.lua',
 		'shout.lua',
 		'apod.lua',
+		'moderatin.lua',
 		-- Put new plugins above this line.
 		'help.lua',
 		'greetings.lua'
-	}       'Chatter.lua'
+	} 
 }
